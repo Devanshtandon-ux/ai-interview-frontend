@@ -1,7 +1,7 @@
 {
   "name": "ai-interview-prep",
   "version": "0.1.0",
-  "homepage": "https://devanshtandon-ux.github.io/ai-interview-frontend",
+  "homepage": ".",
 
   "private": true,
   "dependencies": {
