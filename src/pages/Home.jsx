@@ -2,9 +2,6 @@
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import LearnMore from "../pages/LearnMore";
-import ParticlesBg from "../components/Particlesbg";
-import Stats from "../components/Stats";
-
 
 export default function Home() {
   const navigate = useNavigate();
