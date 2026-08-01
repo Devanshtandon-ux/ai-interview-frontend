@@ -1,7 +1,8 @@
 {
   "name": "ai-interview-prep",
   "version": "0.1.0",
-  "homepage": "https://devanshtandon-ux.github.io/smart-interview-",
+  "homepage": "https://devanshtandon-ux.github.io/ai-interview-frontend",
+
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
